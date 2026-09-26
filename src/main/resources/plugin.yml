@@ -1,0 +1,6 @@
+name: BedrockParity
+version: '${version}'
+main: com.example.bedrockparity.BedrockParityPlugin
+api-version: '1.21.11'
+description: Java PvP parity for Bedrock (Floodgate) players - click-to-block shield, totem-to-offhand swap, attack-cooldown indicator, and hunger/saturation HUD.
+softdepend: [floodgate]
